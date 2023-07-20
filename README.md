@@ -1,9 +1,9 @@
-# Hi 👋, I'm Michael</h1>
-## Threat Intelligence Analyst (Malware Analysis)
+# Michael
+## Threat Intelligence Analyst and Malware Analyst
 
-- 🔭 I’m currently working on **malware analysis**
+🔭 I’m currently working on [zipSniper](https://github.com/andromeda-51/zipSniper). Threat actors frequently publish large ZIP files containing stolen data in the darkweb. Downloading these ZIPs often takes weeks. This tool will snipe the file you request out of the ZIP in a matter of seconds.
 
-- 🌱 I’m currently learning **reverse engineering**
+🌱 I’m currently learning **reverse engineering** to enhance my malware analysis.
 
 ### Connect with me
 <p align="left">
