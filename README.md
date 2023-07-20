@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Threat Intelligence Analyst (Malware Analysis)</h3>
+# Hi 👋, I'm Michael</h1>
+## Threat Intelligence Analyst (Malware Analysis)
 
 - 🔭 I’m currently working on **malware analysis**
 
 - 🌱 I’m currently learning **reverse engineering**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-forret/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-forret/" height="30" width="40" /></a>
 </p>
