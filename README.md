@@ -5,6 +5,8 @@
 
 🌱 I’m currently learning **reverse engineering** to enhance my malware analysis.
 
+🔎 Studying [Crafting Interpreters](https://craftinginterpreters.com).
+
 ### Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/michael-forret/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-forret/" height="30" width="40" /></a>
