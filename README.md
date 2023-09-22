@@ -1,16 +1,21 @@
-# Michael
-## Threat Intelligence Analyst and Malware Analyst
+# Michael's GitHub Portfolio
 
-🔭 I’m currently working on [zipSniper](https://github.com/andromeda-51/zipSniper). Threat actors frequently publish large ZIP files containing stolen data in the darkweb. Downloading these ZIPs often takes weeks. This tool will snipe the file you request out of the ZIP in a matter of seconds.
+### Cybersecurity Enthusiast: Threat Intelligence & Malware Analysis
 
-🌱 I’m currently learning **reverse engineering** to enhance my malware analysis.
+Welcome to my digital realm, where I showcase my explorations and contributions in the vast world of cybersecurity. I am constantly tinkering, learning, and developing, and this space serves as a testament to my journey. Feel free to navigate through my repositories and tools. Feedback is invaluable; if you have any suggestions or insights, kindly raise an issue in the respective repository.
 
-🔎 Studying [Crafting Interpreters](https://craftinginterpreters.com).
+## Featured Tools
 
-### Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/michael-forret/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-forret/" height="30" width="40" /></a>
-</p>
+- **[zipSniper](https://github.com/michaelf97/zipSniper)**: A Rust application that remotely reads ZIP files to display their directory listing. It's especially handy when determining the value of downloading a ZIP archive over Tor given its often slow speeds.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+- **[shellrunner](https://github.com/michaelf97/shellcode_injector)**: Simplifies the dynamic analysis of shellcode. This tool injects shellcode into a specified memory address, streamlining the process.
+
+- **[32bit_a3x_converter](https://github.com/michaelf97/32bit_a3x_converter)**: Working with 64-bit AutoIT a3x compiled scripts? This tool is essential for converting them to 32-bit, ensuring compatibility with various tools.
+
+- **[pwndar](https://github.com/michaelf97/pwndar)**: A Rust-based CLI tool to query the [HaveIBeenPwned API](https://haveibeenpwned.com/). While it started as a personal exercise, it might be of use to others.
+
+- **[godaddy_ddns](https://github.com/michaelf97/godaddy_ddns)**: A Python script tailored for those using Godaddy's DNS. Ideal when hosting resources behind ISP-provided routers with dynamic IPs, this program automatically updates the domain's A record every hour.
+
+---
+
+Thank you for stopping by! Collaboration and knowledge-sharing are at the heart of the open-source community. Let's learn and grow together.
