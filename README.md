@@ -1,6 +1,6 @@
 # Michael's GitHub Portfolio
 
-### Cybersecurity Enthusiast: Threat Intelligence & Malware Analysis
+### Cybersecurity Enthusiast: Threat Intelligence, Malware Analysis & Reverse Engineering
 
 Welcome to my digital realm, where I showcase my explorations and contributions in the vast world of cybersecurity. I am constantly tinkering, learning, and developing, and this space serves as a testament to my journey. Feel free to navigate through my repositories and tools. Feedback is invaluable; if you have any suggestions or insights, kindly raise an issue in the respective repository.
 
