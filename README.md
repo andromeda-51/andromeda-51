@@ -17,7 +17,8 @@ Welcome to my digital realm, where I showcase my explorations and contributions 
 - **[godaddy_ddns](https://github.com/michaelf97/godaddy_ddns)**: A Python script tailored for those using Godaddy's DNS. Ideal when hosting resources behind ISP-provided routers with dynamic IPs, this program automatically updates the domain's A record every hour.
 
 
-## Other Projects
+## Exploratory Ventures
+While these projects might not be fully-fledged tools, they capture unique facets of my journey and might pique the interest of the curious:
 
 - **[jlox](https://github.com/michaelf97/jlox)**: My personal endeavor into crafting a custom interpreter, initially developed in Java. I have future aspirations to reimagine it in Rust. (rlox)
 ---
