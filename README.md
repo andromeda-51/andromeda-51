@@ -8,7 +8,7 @@ Welcome to my digital realm, where I showcase my explorations and contributions 
 
 - **[zipSniper](https://github.com/michaelf97/zipSniper)**: A Rust application that remotely reads ZIP files to display their directory listing. It's especially handy when determining the value of downloading a ZIP archive over Tor given its often slow speeds.
 
-- **[shellrunner](https://github.com/michaelf97/shellcode_injector)**: Simplifies the dynamic analysis of shellcode. This tool injects shellcode into a specified memory address, streamlining the process.
+- **[shellrunner](https://github.com/michaelf97/shellcode_injector)**: Shellrunner is a simple Windows-based tool designed to load and execute shellcode from a binary file. This differs from blobrunner and other tools like it by simplifying the injection process.
 
 - **[32bit_a3x_converter](https://github.com/michaelf97/32bit_a3x_converter)**: Working with 64-bit AutoIT a3x compiled scripts? This tool is essential for converting them to 32-bit, ensuring compatibility with various tools.
 
